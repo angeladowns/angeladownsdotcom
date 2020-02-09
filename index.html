@@ -24,7 +24,7 @@ body, html {height: 100%}
   <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-top">BONJOUR</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center">In my free time, I am an aspiring web developer interested in building opportunities for users to share content useful to transient military and foreign service communities. Right now I do not have a lot of free time but I am doing my best. I hope to launch a new website for my collegues in Algiers later this summer. See you soon.</p>
+    <p class="w3-large w3-center">See you soon.</p>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
     Photo by <a href="https://unsplash.com/photos/m82uh_vamhg" target="_blank">Vicko Mozara</a> on Unsplash.
